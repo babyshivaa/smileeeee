@@ -8,7 +8,7 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () => {
-    question.innerHTML = 'ILOVEYOUSOOOMUCHHH BABYY KOOOO HIHIHI <3 <3 <3 SMILE NA IKAW BABYYYY';
+    question.innerHTML = 'ILOVEYOUSOOOMUCHHH BABYY KOOOO HIHIHI <3 <3 <3 SMILE NA IKAW BABYYYY MWAAAAAAAAA';
     videoContainer.style.display = 'block';
     video.play(); // This triggers the video to play
     
